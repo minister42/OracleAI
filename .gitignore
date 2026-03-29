@@ -1,0 +1,12 @@
+# API Key
+OracleAI/Config.swift
+
+# Xcode
+*.xcodeproj/xcuserdata/
+*.xcworkspace/xcuserdata/
+DerivedData/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
